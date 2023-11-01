@@ -8,10 +8,9 @@ TinDog is a fun and interactive web application inspired by Tinder, designed exc
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
-You can check out the live demo of TinDog [here](#insert-live-demo-link).
+You can check out the live demo of TinDog [here](# https://prince8737.github.io/TinDog/).
 
 ## Features
 - **Responsive Design:** TinDog is designed to work seamlessly across various devices and screen sizes, ensuring a consistent user experience.

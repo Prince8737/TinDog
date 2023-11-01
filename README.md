@@ -14,8 +14,6 @@ TinDog is a fun and interactive web application inspired by Tinder, designed exc
 You can check out the live demo of TinDog [here](#insert-live-demo-link).
 
 ## Features
-- **Swipe Functionality:** Dogs can be swiped left or right based on their profiles, just like Tinder for humans.
-- **Profiles:** Each dog has a detailed profile showcasing their pictures, interests, and a brief description.
 - **Responsive Design:** TinDog is designed to work seamlessly across various devices and screen sizes, ensuring a consistent user experience.
 - **Bootstrap Components:** Bootstrap framework is utilized for responsive layout and styling, providing a modern and visually appealing interface.
 
@@ -24,7 +22,7 @@ To get a local copy of the project up and running, follow these simple steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/TinDog.git
+   git clone https://github.com/Prince8737/TinDog.git
    ```
 
 2. **Open the Project:**
@@ -36,8 +34,6 @@ To get a local copy of the project up and running, follow these simple steps:
    Double click on the `index.html` file to open the TinDog web page in your browser.
 
 ## Usage
-- Swipe left or right to view different dog profiles.
-- Click on a dog's profile to see more details about them.
 - Enjoy the playful experience and imagine dogs finding their perfect matches!
 
 ## Contributing
@@ -48,9 +44,6 @@ We welcome contributions from the community. To contribute to TinDog, follow the
 3. Make your changes and commit them with clear and concise messages.
 4. Push your changes to your forked repository.
 5. Create a pull request with a detailed explanation of your changes.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 

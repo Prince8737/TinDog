@@ -3,7 +3,7 @@
 TinDog is a fun and interactive web application inspired by Tinder, designed exclusively for our furry friends. This repository contains the source code for TinDog, a Tinder-based web page tailored for dogs. The project is built using HTML, CSS, and Bootstrap, making it visually appealing and easy to use.
 
 ## Table of Contents
-- [Demo](#demo)(https://prince8737.github.io/TinDog/)
+- [Demo](https://prince8737.github.io/TinDog/)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
